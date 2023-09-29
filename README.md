@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijaya kumar s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaya kumar s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijaya-kumar-s-273108206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaya kumar s" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/svkumar1055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="svkumar1055" height="30" width="40" /></a>
 </p>
 
@@ -32,14 +32,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vj-2k01&show_icons=true&locale=en&layout=compact" alt="vj-2k01" /></p>
-Replace "ICON_URL" with the actual URLs of icons for each project if you have specific icons in mind. This updated readme section includes icons and links for your projects, making it more visually appealing and informative.
 
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vj-2k01&show_icons=true&locale=en&layout=compact" alt="vj-2k01" /></p>
 
 <!--
 **Vj-2k01/Vj-2k01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
