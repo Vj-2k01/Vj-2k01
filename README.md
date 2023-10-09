@@ -28,7 +28,7 @@
 
 - [Solladal Game](https://solladal-game.web.app/#/)
 
-- [Bright-Brains Game](https://bright-brains-a5544.web.app/#/)
+- [Bright-Brains Game](https://bright-brains-test.web.app/)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vj-2k01&show_icons=true&locale=en&layout=compact" alt="vj-2k01" /></p>
